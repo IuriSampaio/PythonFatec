@@ -11,7 +11,7 @@ def enquantoVDD(s):
     print('fim do loop')
 
 
-enquantoVDD(0)  # --> chamada da funcao sobre o while true usando break e continue
+#enquantoVDD(0)  # --> chamada da funcao sobre o while true usando break e continue
 
 
 def enquantoEncadeado(s):
